@@ -10,7 +10,7 @@
 </a>
 <a href="https://open.spotify.com/user/bkbrrrgwls9td0m0yd0u2s3f7">
   <img align="left" alt="
-  Vishal's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  Vishal's Spotify" width="22px" src="https://raw.githubusercontent.com/zaidongy/Spotify-Scraper/master/assets/spotify_logo.png" />
 </a>
 
 
