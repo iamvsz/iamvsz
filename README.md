@@ -1,16 +1,16 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/QbxMte7qAp">
-  <img align="left" alt="Vishal's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Vishal's Discord" width="22px" src="https://raw.githubusercontent.com/iamvsz/iamvsz/master/discord.png" />
 </a>
 <a href="https://twitter.com/iamvsz">
-  <img align="left" alt="Vishal Zade | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Vishal Zade | Twitter" width="22px" src="https://raw.githubusercontent.com/iamvsz/iamvsz/master/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/iamvsz/">
-  <img align="left" alt="Vishal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Vishal's LinkedIN" width="22px" src="https://raw.githubusercontent.com/iamvsz/iamvsz/master/linkedinlogo.png" />
 </a>
 <a href="https://open.spotify.com/user/bkbrrrgwls9td0m0yd0u2s3f7">
   <img align="left" alt="
-  Vishal's Spotify" width="22px" src="https://raw.githubusercontent.com/zaidongy/Spotify-Scraper/master/assets/spotify_logo.png" />
+  Vishal's Spotify" width="22px" src="https://raw.githubusercontent.com/iamvsz/iamvsz/master/spotify.png" />
 </a>
 
 
@@ -23,7 +23,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <br />
 
-  <img align="center" alt="GIF" src="https://github.com/iamvsz/iamvsz/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/iamvsz/iamvsz/master/code.gif" width="500" height="320" />
   
 
 
@@ -37,5 +37,3 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamvsz&layout=compact)](https://github.com/iamvsz?tab=repositories)
-
-
